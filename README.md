@@ -1,11 +1,19 @@
 # fe-interview
 
 ## HTML
-- 如何理解 HTML 中的语义化标签?
+### 如何理解 HTML 中的语义化标签?
+- 使用恰当的标签来展示内容
+- 例如段落用 p 标签
 
-- HTML5 有哪些新标签?
+### HTML5 有哪些新标签?
 
-- Canvas 和 SVG 的区别是什么?
+### Canvas 和 SVG 的区别是什么?
+
+### meta viewport 是做什么用的, 怎么写?
+- 控制页面在移动端不要缩小显示
+```js
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+```
 
 ## CSS
 - BFC 是什么?
@@ -163,7 +171,7 @@ Exclude、Extract、Omit、ReturnType的作用
 
 - 你对加班的看法?
 
-## 刁钻题
-### `[1,2,3].map(parselnt)`
-### `a.x=a={}`
-### `function a;a=2`
+## 结果输出题
+### [1,2,3].map(parselnt)
+- a.x=a={}
+- function a;a=2
