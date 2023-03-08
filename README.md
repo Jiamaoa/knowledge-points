@@ -24,7 +24,9 @@
 
 - 如何清除浮动?
 
-- 两种盒模型(box-sizing)的区别?
+### 两种盒模型(box-sizing)的区别?
+- content-box: width === content宽度
+- border-box: width === content宽度 + padding 宽度 + border 宽度
 
 ## JS 基础题
 - JS 的数据类型有哪些?
@@ -93,7 +95,7 @@
 Exclude、Extract、Omit、ReturnType的作用
 和实现?
 
-##  Vue2
+## Vue2
 - Vue2 的生命周期钩子有哪些?数据请求放在哪
 个钩子?
 
