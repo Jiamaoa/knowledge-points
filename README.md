@@ -16,9 +16,9 @@
 ```
 
 ## CSS
-- BFC 是什么?
+### BFC 是什么?
 
-- 如何实现垂直居中?
+### 如何实现垂直居中?
 
 - CSS 选择器优先级如何确定?
 
@@ -27,6 +27,10 @@
 ### 两种盒模型(box-sizing)的区别?
 - content-box: width === content宽度
 - border-box: width === content宽度 + padding 宽度 + border 宽度
+
+### css.reset 和 normalize.css 有什么区别？
+-	reset 抛弃默认样式
+-	normalize 统一各浏览器上的标签默认样式
 
 ## JS 基础题
 - JS 的数据类型有哪些?
