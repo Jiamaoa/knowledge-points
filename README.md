@@ -4,10 +4,25 @@
 ### 如何理解 HTML 中的语义化标签?
 - 使用恰当的标签来展示内容
 - 例如段落用 p 标签
+- 语义化标签指一眼看去就知道是什么意思，从而知道其用法的标签。作用是增强代码的可读性
+- 如：视频<video> 音频<audio> 
 
 ### HTML5 有哪些新标签?
+- video    视频
+- audio    音频
+- header   头部
+- section  文档
+- footer   尾部
+- aside    侧边栏
+- nav      导航
+- main     主体
+- article  内容
+- mark     文本高亮
+- progress 进度条
 
 ### Canvas 和 SVG 的区别是什么?
+- canvas 是 HTML5 提供的新元素，通过 js 来绘制 2D 图形
+- svg 是 xml 描述的 2D 图像，可以使用 js 给任意元素添加事件
 
 ### meta viewport 是做什么用的, 怎么写?
 - 控制页面在移动端不要缩小显示
