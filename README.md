@@ -150,8 +150,8 @@ Exclude、Extract、Omit、ReturnType的作用
 - LazyMan
 
 ## 工程化
-- 常见 loader 和 plugin 有哪些?二者的区别是
-什么?
+- 常见 loader 和 plugin 有哪些? 二者的区别是什么?
+
 - webpack 如何解决开发时的跨域问题?
 
 - 如何实现 tree-shaking?
